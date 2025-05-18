@@ -1,0 +1,41 @@
+COURSES :-
+
+Computer Science and Engineering (CSE)
+
+Information Technology (IT)
+
+Electronics and Communication Engineering (ECE)
+
+Electrical and Electronics Engineering (EEE)
+
+Mechanical Engineering (ME)
+
+Civil Engineering (CE)
+
+Chemical Engineering
+
+Aerospace Engineering
+
+Automobile Engineering
+
+SPECLIZATION :-
+
+Artificial Intelligence and Machine Learning (AI & ML)
+
+Data Science and Engineering
+
+Robotics and Automation Engineering
+
+Cyber Security and Forensics
+
+Internet of Things (IoT)
+
+Blockchain Technology
+
+Quantum Computing
+
+Bioinformatics
+
+Biomedical Engineering
+
+Nanotechnology Engineering
