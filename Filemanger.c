@@ -14,7 +14,7 @@ int InputTaker()
         printf("Error: Could not open file.\n");
         return 0;
     }
-
+    getchar();
     printf("Enter student name: ");
     fgets(name, 25, stdin);
     name[strcspn(name, "\n")] = 0;

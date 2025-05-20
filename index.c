@@ -26,18 +26,20 @@ int main()
         exit(0);
     default:
         printf("Invalid choice! Please try again.\n");
+        rest =0;
     }
 
     if (rest != 1)
     {
-        printf("customer 101 signigfication error (bye bye !)");
+        printf("\ncustomer 101 signigfication error (bye bye !)");
+        return 0;
     }
     printf("\n\t\t\t\t\tWelcome to the course enrolment System !\n");
 
     int nn = 1;
     while (nn)
     {
-        printf(" 1.for adding user  \n 2.for deleting user \n 3. reading detail \n 4. editing detail\n 5. exit \n");
+        printf("\n 1.for adding user  \n 2.for deleting user \n 3. reading detail \n 4. editing detail\n 5. exit \n");
         printf("\nEnter your choice:\n ");
         scanf("%d", &choice);
         switch (choice)
@@ -67,6 +69,6 @@ int main()
             break;
         }
     }
-    printf("\n\t\t\t\t\t\t\t\t thank you for visting our sitie");
+    printf("\n\t\t\t\t\t\t\t\t******thank you for visting our site******");
     return 0;
 }
